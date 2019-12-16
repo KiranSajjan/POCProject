@@ -99,7 +99,7 @@
     <form id="form1" runat="server">
        <div class="wrapper">
 			<header>
-				<h1>Yoko's Kitchen</h1>
+				<h1>GWPIT Kitchen</h1>
 				<nav>
 					<ul>
 						<li><a href="" class="current">home</a></li>
