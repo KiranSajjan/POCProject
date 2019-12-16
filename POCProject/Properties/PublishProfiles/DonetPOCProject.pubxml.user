@@ -10,10 +10,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/POCProject.dll">
-      <publishTime>12/16/2019 17:05:07</publishTime>
+      <publishTime>12/16/2019 19:04:47</publishTime>
     </File>
     <File Include="Home.aspx">
-      <publishTime>12/16/2019 12:58:02</publishTime>
+      <publishTime>12/16/2019 19:03:47</publishTime>
+    </File>
+    <File Include="images/bok-choi.jpg">
+      <publishTime>12/16/2019 18:59:26</publishTime>
+    </File>
+    <File Include="images/dark-wood.jpg">
+      <publishTime>12/16/2019 19:00:28</publishTime>
+    </File>
+    <File Include="images/header.jpg">
+      <publishTime>12/16/2019 19:00:47</publishTime>
+    </File>
+    <File Include="images/teriyaki.jpg">
+      <publishTime>12/16/2019 18:59:43</publishTime>
     </File>
     <File Include="Web.config">
       <publishTime>12/16/2019 17:05:11</publishTime>
