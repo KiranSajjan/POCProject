@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
     <p>
-        This is home page
+       <marquee> This is home page   </marquee>
     </p>
     </div>
     </form>
