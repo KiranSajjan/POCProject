@@ -1,0 +1,6 @@
+D:\Jenkins\projects\POCProject\POCProject\POCProject\bin\POCProject.dll.config
+D:\Jenkins\projects\POCProject\POCProject\POCProject\bin\POCProject.dll
+D:\Jenkins\projects\POCProject\POCProject\POCProject\bin\POCProject.pdb
+D:\Jenkins\projects\POCProject\POCProject\POCProject\obj\Debug\POCProject.csprojResolveAssemblyReference.cache
+D:\Jenkins\projects\POCProject\POCProject\POCProject\obj\Debug\POCProject.dll
+D:\Jenkins\projects\POCProject\POCProject\POCProject\obj\Debug\POCProject.pdb
