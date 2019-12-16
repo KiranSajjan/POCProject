@@ -9,12 +9,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
-        <p>
-            Hey i am new text 
+    <p>
         This is home page
-    
-        </p>
+    </p>
     </div>
     </form>
 </body>
