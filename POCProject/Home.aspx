@@ -9,12 +9,18 @@
 <body>
     <form id="form1" runat="server">
     <div>
+<<<<<<< HEAD
     
         <p>
             Hey i am new text 
         This is home page
     
         </p>
+=======
+    <p>
+       <marquee> <p style="background-color:green;"> This is home page </p>  </marquee>
+    </p>
+>>>>>>> 50686adc21e7593ac530e143aba1214ac8be67b2
     </div>
     </form>
 </body>
