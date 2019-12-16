@@ -1,0 +1,7 @@
+D:\Jenkins\projects\POCProject\POCProject\POCProject.Test\obj\Debug\POCProject.Test.csprojResolveAssemblyReference.cache
+D:\Jenkins\projects\POCProject\POCProject\POCProject.Test\bin\Debug\POCProject.Test.dll
+D:\Jenkins\projects\POCProject\POCProject\POCProject.Test\bin\Debug\POCProject.Test.pdb
+D:\Jenkins\projects\POCProject\POCProject\POCProject.Test\bin\Debug\POCProject.dll
+D:\Jenkins\projects\POCProject\POCProject\POCProject.Test\bin\Debug\POCProject.pdb
+D:\Jenkins\projects\POCProject\POCProject\POCProject.Test\obj\Debug\POCProject.Test.dll
+D:\Jenkins\projects\POCProject\POCProject\POCProject.Test\obj\Debug\POCProject.Test.pdb
