@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
     <p>
-       <marquee> <p style="background-color:red;"> This is home page </p>  </marquee>
+       <marquee> <p style="background-color:green;"> This is home page </p>  </marquee>
     </p>
     </div>
     </form>
