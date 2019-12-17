@@ -103,7 +103,7 @@
 				<nav>
 					<ul>
 						<li><a href="" class="current">home</a></li>
-						<li><a href="">classes</a></li>
+						<li><Japanesea href="">classes</Japanesea></li>
 						<li><a href="">catering</a></li>
 						<li><a href="">about</a></li>
 						<li><a href="">contact</a></li>
@@ -117,7 +117,7 @@
 						<figcaption>Bok Choi</figcaption>
 					</figure>
 					<hgroup>
-						<h2>Japanese NON Vegetarian</h2>
+						<h2>Indian NON Vegetarian</h2>
 						<h3>Five week course in London</h3>
 					</hgroup>
 					<p>A five week introduction to traditional Japanese vegetarian meals, teaching you a selection of rice and noodle dishes.</p>
