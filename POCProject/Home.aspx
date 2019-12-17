@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>GWPIT - Engineer's Garage</title>
     <style type="text/css">
 			header, section, footer, aside, nav, article, figure, figcaption {
 				display: block;}
@@ -102,11 +102,9 @@
 				<h1>GWPIT Engineering day</h1>
 				<nav>
 					<ul>
-						<li><a href="" class="current">home</a></li>
-						<li><Japanesea href="">classes</Japanesea></li>
-						<li><a href="">catering</a></li>
-						<li><a href="">about</a></li>
-						<li><a href="">contact</a></li>
+						<li><a href="" class="current">Home</a></li>
+						<li><Japanesea href="">Ideas</Japanesea></li>
+						<li><Japanesea href="">Knowledge share</Japanesea></li>
 					</ul>
 				</nav>
 			</header>
@@ -136,22 +134,21 @@
 			</section>
 			<aside>
 				<section class="popular-recipes">
-					<h2>Popular Recipes</h2>
-					<a href="">Yakitori (grilled chicken)</a>
-					<a href="">Tsukune (minced chicken patties)</a>
-					<a href="">Okonomiyaki (savory pancakes)</a>
-					<a href="">Mizutaki (chicken stew)</a>
+					<h2>Popular Ideas</h2>
+					<a href="">CI/CD using Jenkins</a>
+					<a href="">CI/CD using Azure</a>
+					<a href="">FT access cloning</a>
+					
 				</section>
 				<section class="contact-details">
 					<h2>Contact</h2>
-					<p>Yoko's Kitchen<br />
-						27 Redchurch Street<br />
-						Shoreditch<br />
-						London E2 7DP</p>
+					<p>GWPIT<br />
+						Bangalore<br />
+						</p>
 				</section>
 			</aside>
 			<footer>
-				&copy; 2011 Yoko's Kitchen
+				&copy; GWPIT Engineering Day - Since 2019
 			</footer>
 		</div><!-- .wrapper -->
 	</body>
