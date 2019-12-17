@@ -134,7 +134,7 @@
 			</section>
 			<aside>
 				<section class="popular-recipes">
-					<h2>Popular Idea's</h2>
+					<h2>Popular Ideas</h2>
 					<a href="">CI/CD using Jenkins</a>
 					<a href="">CI/CD using Azure</a>
 					<a href="">FT access cloning</a>
