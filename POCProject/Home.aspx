@@ -129,7 +129,7 @@
 					</figure>
 					<hgroup>
 						<h2>Sauces Masterclass</h2>
-						<h3>One day workshop</h3>
+						<h3>All day workshop</h3>
 					</hgroup>
 					<p>An intensive one-day course looking at how to create the most delicious sauces for use in a range of Japanese cookery.</p>
 				</article>    
