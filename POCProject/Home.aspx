@@ -115,7 +115,7 @@
 						<figcaption>Bok Choi</figcaption>
 					</figure>
 					<hgroup>
-						<h2>Indian NON Vegetarian </h2>
+						<h2>Indian Vegetarian </h2>
 						<h3>Five week course in London</h3>
 					</hgroup>
 					<p>A five week introduction to traditional Japanese vegetarian meals, teaching you a selection of rice and noodle dishes.</p>
