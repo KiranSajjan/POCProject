@@ -1,0 +1,1 @@
+D:\Jenkins\projects\POCProject\POCProject\.sonarqube\out\0

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>POCProject.Test</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>a880da44-9283-43c1-a7d1-9c54a6101ff9</ProjectGuid>
+  <FullPath>D:\Jenkins\projects\POCProject\POCProject\POCProject.Test\POCProject.Test.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\Jenkins\projects\POCProject\POCProject\.sonarqube\out\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">D:\Jenkins\projects\POCProject\POCProject\POCProject.Test\bin\Debug\POCProject.Test.dll.RoslynCA.json|D:\Jenkins\projects\POCProject\POCProject\POCProject.Test\bin\Debug\POCProject.Test.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">D:\Jenkins\projects\POCProject\POCProject\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>
