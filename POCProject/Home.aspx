@@ -318,7 +318,7 @@
                     <p>Catch bugs and vulnerabilities in your app, with thousands of automated Static Code Analysis rules.</p>
                 </article> 
             </section>
-       <%-- <aside>
+        <aside>
 				<section class="popular-recipes">
 					<h2>Popular Ideas</h2>
 					<a href="">CI/CD using Jenkins</a>
@@ -332,7 +332,7 @@
 						Bangalore<br />
 						</p>
 				</section>
-			</aside>--%>
+			</aside>
             <footer>
                 © GWPIT Engineering Day - Since 2019
             </footer>
