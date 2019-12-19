@@ -167,8 +167,7 @@
             <section class="courses">
                 <article>
                     <figure>
-                        <img src="images/bok-choi.jpg" class="imagesize" alt="Bok Choi" />
-                        
+                        <img src="images/bok-choi.jpg" class="imagesize" alt="Bok Choi" />                        
                     </figure>
                     <h2>Jenkins</h2>
                     <p>
@@ -177,14 +176,13 @@
                 </article>
                 <article>
                     <figure>
-                        <img src="images/teriyaki.jpg" class="imagesize" alt="Teriyaki sauce" />
-                       
+                        <img src="images/teriyaki.jpg" class="imagesize" alt="Teriyaki sauce" />                       
                     </figure>
                     <h2>SonarQube</h2>
                     <p>Catch bugs and vulnerabilities in your app, with thousands of automated Static Code Analysis rules.</p>
                 </article>
             </section>
-            <%--<aside>
+            <aside>
                 <section class="popular-recipes">
                     <h2>Popular Ideas</h2>
                     <a href="">CI/CD using Jenkins</a>
@@ -199,7 +197,7 @@
                         Bangalore<br />
                     </p>
                 </section>
-            </aside>--%>
+            </aside>
             <footer>
                 &copy; GWPIT Engineering Day - Since 2019
             </footer>
