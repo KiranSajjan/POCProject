@@ -316,7 +316,7 @@
                     </figure>
                     <h2>SonarQube</h2>
                     <p>Catch bugs and vulnerabilities in your app, with thousands of automated Static Code Analysis rules.</p>
-                </article>
+                </article> 
             </section>
        <%-- <aside>
 				<section class="popular-recipes">
